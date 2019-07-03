@@ -1,3 +1,7 @@
+Feature: Ordering smoothies
+  In order to maintain a healthy lifestyle
+  As a busy professional
+  I want to be able to order fresh smoothies to my home each morning
 Scenario: Michael is on a diet
   Given Michael is a Morning Freshness member
   And Michael is on low-suger diet plan
