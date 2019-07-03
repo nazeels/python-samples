@@ -1,0 +1,6 @@
+Scenario: Michael is on a diet
+  Given Michael is a Morning Freshness member
+  And Michael is on low-suger diet plan
+  When he orders an "Applie and Mango Smoothie"
+  Then he should be told that his order is high of suagr
+  But he should be able to confirm his order
